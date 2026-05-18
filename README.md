@@ -34,4 +34,4 @@ https://drive.google.com/file/d/1LMQXwHa5tuEiohoy4si8Az903TI27ugi/view?usp=drive
 
 ## Author
 
-Your Name
+Marek Krakovský
